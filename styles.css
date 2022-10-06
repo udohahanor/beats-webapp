@@ -54,7 +54,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    ;
 }
 
 .content img
@@ -63,9 +62,13 @@
     height: auto;
 }
 
+.fa-solid
+{
+    color: black;
+}
+
 .details
 {
-    justify-content: left;
     align-items: center;
 }
 
